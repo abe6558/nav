@@ -7,7 +7,7 @@ function Navbar() {
             <h2>MIN.CHIN</h2>
             <ul>
                 <li><a href="/">home</a></li>
-                <li><a href="/about">about</a></li>
+                <li><a href="/about">Info</a></li>
                 <li><a href="/projects">projects</a></li>
             </ul>
         </nav>
